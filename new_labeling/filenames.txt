@@ -1,0 +1,3 @@
+/home2/js20/thesis/cartography/filtered/cartography_confidence_0.05/MNLI/train.tsv
+/home2/js20/thesis/cleanlab/train_preds/MNLI/mislabeled.tsv
+/home2/js20/thesis/conll_method/mislabeled.tsv

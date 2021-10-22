@@ -1,0 +1,3 @@
+confirming same number both times: 11917 11917
+tau: 0.002484398706810165
+p_value: 0.6841883868026308
